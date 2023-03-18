@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Yoel
 
-An experienced software engineer with over seven years of building, testing, and deploying scalable and modular software products. Determined to succeed and motivated by the success of customers, colleagues, and the community. I am constantly learning and seeking ways to make things better.
++7 years of building, testing, and deploying scalable and modular software products. Innovative professional with proven troubleshooting and debugging capabilities for resolving complex technical issues. Adept in directing development with a creative and performance-oriented approach.
 
 ### 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aduranyoel/)
