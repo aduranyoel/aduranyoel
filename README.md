@@ -3,7 +3,7 @@
 An experienced software engineer with over seven years of building, testing, and deploying scalable and modular software products. Determined to succeed and motivated by the success of customers, colleagues, and the community. I am constantly learning and seeking ways to make things better.
 
 ### 📫 How to reach me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoet92/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aduranyoel/)
 
 ### Main technologies :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
